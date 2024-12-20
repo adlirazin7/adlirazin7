@@ -4,7 +4,7 @@
 <br/><br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adli+Razin 😊;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20There!%20👋;%20I'm%20Adli%20Razin%20😊;" alt="Hi There! I'm Adli Razin"/>
 </h1>
 
 
@@ -29,12 +29,14 @@
   <a href="mailto:adlirazin99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-adli-razin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://portfolio-adli.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+  <a href="https://www.credly.com/users/muhammad-adli-razin-bin-abdul-rahim" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/Credly-%23fc720e.svg?style=for-the-badge&logo=credly&logoColor=white" target="_blank"  /></a> 
+
 </div>
 
 <br/>
@@ -68,16 +70,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adlirazin7&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=adlirazin7&theme=react&hide_border=false" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlirazin7&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
-
-
-
-
-
-
