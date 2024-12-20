@@ -2,8 +2,7 @@
 <p>
 🎓 Master of Engineering in Computer Science and Electronics from Polytech Grenoble<br>
 🚀 Currently seeking AI/ML roles to apply expertise and grow in the field<br>
-📚 Lifelong learner, continuously enhancing skills and knowledge in technology<br>
-💡 Always exploring new technologies to push the boundaries of AI and machine learning
+📚 Lifelong learner, continuously enhancing skills and knowledge in technology
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -43,3 +42,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adlirazin7&show_icons=true&locale=en&layout=compact" alt="adlirazin7" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adlirazin7" alt="adlirazin7" /></a></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
