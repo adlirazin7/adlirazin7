@@ -20,7 +20,7 @@
 
  📚 Lifelong learner, continuously enhancing skills and knowledge in technology
 
- ⚽ Fun fact Arsenal is the only team with a **Golden** Premier League trophy!
+ ⚽ Fun fact:  Arsenal is the only team with a **Golden** Premier League trophy!
 
 
  </div>
