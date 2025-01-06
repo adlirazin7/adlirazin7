@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/muhammad-adli-razin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-adli.netlify.app/" target="_blank">
+  <a href="https://adlirazin7.github.io/portfolio-website/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://www.credly.com/users/muhammad-adli-razin-bin-abdul-rahim" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/Credly-%23fc720e.svg?style=for-the-badge&logo=credly&logoColor=white" target="_blank"  /></a> 
