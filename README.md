@@ -16,8 +16,6 @@
  
  🎓 Master of Engineering in Computer Science and Electronics from Polytech Grenoble
 
- 🚀 Currently seeking AI/ML roles to apply expertise and grow in the field
-
  📚 Lifelong learner, continuously enhancing skills and knowledge in technology
 
  ⚽ Fun fact:  Arsenal is the only team with a **Golden** Premier League trophy!
