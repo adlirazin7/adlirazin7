@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align="center">An AI & ML Enthousiast</h3>
+<h3 align="center">IOT Engineer</h3>
 
 <br/>
 
